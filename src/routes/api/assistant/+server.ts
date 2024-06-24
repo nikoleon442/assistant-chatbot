@@ -27,7 +27,7 @@ export const POST = (async ({ request }) => {
 		content: input.message
 	});
 	// add user message to db
-	await addMessageToDb(threadId, input.message, 'user');
+	await addMessageToDb(threadId, input.message, 'user').catch((err) => console.error("Handling error gracefully: ", err))
 
 	return AssistantResponse(
 		{ threadId, messageId: createdMessage.id },
@@ -43,7 +43,7 @@ export const POST = (async ({ request }) => {
 				})
 				// add assistant message to db
 				.on('textDone', (content) => {
-					addMessageToDb(threadId, content.value, 'asst');
+					addMessageToDb(threadId, content.value, 'asst').catch((err) => console.error("Handling error gracefully: ", err));
 				});
 
 			// forward run status would stream message deltas
