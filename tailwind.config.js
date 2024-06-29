@@ -16,7 +16,7 @@ const config = {
 				foreground: '#d4d4d8',
 				primary: 'pink',
 				secondary: '#fca5a5',
-				border: '#475569',
+				border: '#D9D9D9',
 				text: '#18181b',
 				text2: '#52525b'
 			},
