@@ -10,6 +10,6 @@ export const AI_AVATAR_PATH = '/avatar.png';
 
 export const USER_AVATAR_PATH = '/avatar.png';
 
-export const ASSISTANT_ID = 'asst_r8LXwNXQz3sC1JTophWWgCQA';
+export const ASSISTANT_ID = 'asst_A1KVJjrQZ07yOea4vUuMyEY9';
 
 export const OPENAI_ENVIRONMENT: 'assistant' | 'chat' = 'assistant';
