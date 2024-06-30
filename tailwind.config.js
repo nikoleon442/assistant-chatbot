@@ -12,11 +12,11 @@ const config = {
 		},
 		extend: {
 			colors: {
-				background: '#000000',
+				background: '#FFFFFF',
 				foreground: '#FFFFFF',
 				primary: 'FFFFFF',
 				secondary: '#FFFFFF',
-				border: '#D2D2D2',
+				border: '#000000',
 				text: '#000000',
 				text2: '#000000'
 			},
