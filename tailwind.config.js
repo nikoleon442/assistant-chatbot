@@ -12,13 +12,13 @@ const config = {
 		},
 		extend: {
 			colors: {
-				background: '#FFFFFF',
-				foreground: '#FFFFFF',
-				primary: 'FFFFFF',
-				secondary: '#FFFFFF',
-				border: '#000000',
-				text: '#000000',
-				text2: '#000000'
+				background: '#FF3131',
+				foreground: '#FF66C4',
+				primary: '#8C52FF',
+				secondary: '#0CC0DF',
+				border: '#5271FF',
+				text: '#7ED957',
+				text2: '#FFBD59'
 			},
 			fontFamily: {
 				sans: [...fontFamily.sans]
