@@ -8,7 +8,7 @@ export const AI_DESCRIPTION = 'Start your conversation';
 
 export const AI_AVATAR_PATH = '/Square DI Logo.png';
 
-export const USER_AVATAR_PATH = '/avatar.png';
+export const USER_AVATAR_PATH = '/17004.png';
 
 export const ASSISTANT_ID = 'asst_A1KVJjrQZ07yOea4vUuMyEY9';
 
