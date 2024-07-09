@@ -6,7 +6,7 @@ export const AI_ASSISTANT = 'DiversifAI';
 
 export const AI_DESCRIPTION = 'Start your conversation';
 
-export const AI_AVATAR_PATH = '/Square DI Logo.png';
+export const AI_AVATAR_PATH = '/Copy of PA YP (1).png';
 
 export const USER_AVATAR_PATH = '/17004.png';
 
