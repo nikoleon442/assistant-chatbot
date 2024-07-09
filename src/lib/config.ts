@@ -2,11 +2,11 @@ export const MODEL = 'gpt-3.5-turbo';
 
 export const ENDPOINT = '/api/chat';
 
-export const AI_ASSISTANT = 'DiversifAI';
+export const AI_ASSISTANT = 'PayAsYouPrompt.com';
 
 export const AI_DESCRIPTION = 'Start your conversation';
 
-export const AI_AVATAR_PATH = '/Copy of PA YP (1).png';
+export const AI_AVATAR_PATH = '/Copy of PA YP (2).png';
 
 export const USER_AVATAR_PATH = '/17004.png';
 
