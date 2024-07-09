@@ -17,7 +17,7 @@ const config = {
 				primary: '#8C52FF',
 				secondary: '#0CC0DF',
 				border: '#5271FF',
-				text: '#7ED957',
+				text: '#000000',
 				text2: '#FFBD59'
 			},
 			fontFamily: {
